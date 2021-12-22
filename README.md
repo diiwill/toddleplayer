@@ -87,6 +87,9 @@ To connect to the Raspberry use your favorite ssh client like [PuTTY](https://ww
 
 The standard user is ```root``` and the password is ```musicbox```.
 
+In order to install packages you must change /etc/apt/sources.list see the following link for explination.
+https://github.com/pimusicbox/pimusicbox/issues/530
+
 ### First Setup
 You have to download the required scripts and unpack them from the latest release.
 ```
