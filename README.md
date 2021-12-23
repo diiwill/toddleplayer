@@ -174,6 +174,13 @@ echo "started box.py"
 
 ### Configuration
 
+You now must install evdev using pip 
+
+```
+sudo pip install evdev
+```
+
+
 Now you can create as many folders as you want in the /music/ folder and add the RFID tags accordingly
 
 ```
